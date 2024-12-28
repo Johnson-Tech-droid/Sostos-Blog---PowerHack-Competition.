@@ -1,6 +1,4 @@
-# Sostos-Blog---PowerHack-Competition.
-An app that uses Gemini to Fact-check posts online.
-
+# sostos-blog
 ## what is sostos-blog?
 sostos-blog is a social media blogging app/system that fact-checks posts before they are posted to the public.
 
@@ -41,4 +39,3 @@ npm run develop
 ```
 
 **Happy Hacking**
-
